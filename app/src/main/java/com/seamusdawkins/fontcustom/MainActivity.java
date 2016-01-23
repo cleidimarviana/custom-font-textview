@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
 
                 return true;
             case R.id.action_github:
-                String url = "https://github.com/cleidimarviana";
+                String url = "https://github.com/cleidimarviana/custom-font-textview";
                 Intent intent = new Intent(Intent.ACTION_VIEW);
                 intent.setData(Uri.parse(url));
                 startActivity(intent);

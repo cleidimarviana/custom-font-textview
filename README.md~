@@ -3,13 +3,10 @@ Custom fonts to TextView.
 
 ## Code XML
 
-
-Attribute
 ```
 customAttrs:fontType="free_mono"
 ```
 
-The TextView 
 ```java
 <com.seamusdawkins.fontcustom.CustomTextView
         android:layout_width="match_parent"
