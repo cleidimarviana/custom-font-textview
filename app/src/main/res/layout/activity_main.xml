@@ -8,7 +8,7 @@
     <com.seamusdawkins.fontcustom.CustomTextView
         android:layout_width="match_parent"
         android:layout_height="0dp"
-        android:text="Hello World!"
+        android:text="@string/str_text_default"
         android:textSize="30dp"
         customAttrs:fontType="roboto_thin"
         android:layout_weight="1"
@@ -16,7 +16,7 @@
     <com.seamusdawkins.fontcustom.CustomTextView
         android:layout_width="match_parent"
         android:layout_height="0dp"
-        android:text="Hello World!"
+        android:text="@string/str_text_default"
         android:textSize="30dp"
         customAttrs:fontType="free_mono"
         android:layout_weight="1"
@@ -24,7 +24,7 @@
     <com.seamusdawkins.fontcustom.CustomTextView
         android:layout_width="match_parent"
         android:layout_height="0dp"
-        android:text="Hello World!"
+        android:text="@string/str_text_default"
         android:textSize="30dp"
         customAttrs:fontType="free_sans"
         android:layout_weight="1"
@@ -32,7 +32,7 @@
     <com.seamusdawkins.fontcustom.CustomTextView
         android:layout_width="match_parent"
         android:layout_height="0dp"
-        android:text="Hello World!"
+        android:text="@string/str_text_default"
         android:textSize="30dp"
         customAttrs:fontType="free_serif"
         android:layout_weight="1"
