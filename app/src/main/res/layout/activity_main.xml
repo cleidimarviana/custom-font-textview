@@ -5,35 +5,36 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
-    <info.cleidimarviana.fonttextview.CustomTextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+    <com.seamusdawkins.fontcustom.CustomTextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
         android:text="Hello World!"
         android:textSize="30dp"
         customAttrs:fontType="roboto_thin"
-        />
-    <info.cleidimarviana.fonttextview.CustomTextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"/>
+    <com.seamusdawkins.fontcustom.CustomTextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
         android:text="Hello World!"
         android:textSize="30dp"
         customAttrs:fontType="free_mono"
-        />
-    <info.cleidimarviana.fonttextview.CustomTextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"/>
+    <com.seamusdawkins.fontcustom.CustomTextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
         android:text="Hello World!"
         android:textSize="30dp"
         customAttrs:fontType="free_sans"
-        />
-    <info.cleidimarviana.fonttextview.CustomTextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"/>
+    <com.seamusdawkins.fontcustom.CustomTextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
         android:text="Hello World!"
         android:textSize="30dp"
         customAttrs:fontType="free_serif"
-        />
-
-
-
+        android:layout_weight="1"
+        android:gravity="center"/>
 </LinearLayout>

@@ -1,4 +1,4 @@
-package info.cleidimarviana.fonttextview;
+package com.seamusdawkins.fontcustom;
 
 import org.junit.Test;
 
