@@ -19,6 +19,9 @@ The TextView
         customAttrs:fontType="free_mono"
         android:gravity="center"/>
 ```
+Feedback
+----
+Questions, comments, and feedback are welcome at cleidimarviana@gmail.com
 
 License
 ----
